@@ -1,0 +1,58 @@
+# Core scientific stack
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+
+# Signal processing
+scikit-learn
+pywavelets
+spectrum
+
+# Deep learning (choose ONE backend ideally)
+torch
+torchvision
+torchaudio
+
+# OR (if using TensorFlow instead of PyTorch)
+# tensorflow
+
+# Data handling & utilities
+h5py
+opencv-python
+tqdm
+
+# Visualization & notebooks
+jupyter
+notebook
+ipykernel
+
+# Experiment tracking
+wandb
+
+# Configuration management
+pyyaml
+
+# File formats / radar datasets
+netCDF4
+
+# Image & augmentation (useful if radar converted to spectrograms)
+albumentations
+
+# Metrics & evaluation
+scikit-image
+
+# Logging & debugging
+loguru
+
+# CLI tools
+typer
+
+# Optional: hyperparameter tuning
+optuna
+
+# Optional: model explainability
+shap
+
+#GUI
